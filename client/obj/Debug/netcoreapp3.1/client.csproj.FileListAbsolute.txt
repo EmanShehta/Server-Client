@@ -1,0 +1,14 @@
+E:\Assignment\client\bin\Debug\netcoreapp3.1\client.exe
+E:\Assignment\client\bin\Debug\netcoreapp3.1\client.deps.json
+E:\Assignment\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.json
+E:\Assignment\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.dev.json
+E:\Assignment\client\bin\Debug\netcoreapp3.1\client.dll
+E:\Assignment\client\bin\Debug\netcoreapp3.1\client.pdb
+E:\Assignment\client\obj\Debug\netcoreapp3.1\client.csproj.AssemblyReference.cache
+E:\Assignment\client\obj\Debug\netcoreapp3.1\client.GeneratedMSBuildEditorConfig.editorconfig
+E:\Assignment\client\obj\Debug\netcoreapp3.1\client.AssemblyInfoInputs.cache
+E:\Assignment\client\obj\Debug\netcoreapp3.1\client.AssemblyInfo.cs
+E:\Assignment\client\obj\Debug\netcoreapp3.1\client.csproj.CoreCompileInputs.cache
+E:\Assignment\client\obj\Debug\netcoreapp3.1\client.dll
+E:\Assignment\client\obj\Debug\netcoreapp3.1\client.pdb
+E:\Assignment\client\obj\Debug\netcoreapp3.1\client.genruntimeconfig.cache
